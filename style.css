@@ -1,0 +1,10 @@
+main{
+    background-color: aliceblue;
+    width: 100vh;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
